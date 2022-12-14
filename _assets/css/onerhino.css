@@ -1,0 +1,13 @@
+.delete {
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.option {
+  width: 30%;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-items: center;
+}
